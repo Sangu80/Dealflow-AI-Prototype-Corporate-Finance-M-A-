@@ -1,0 +1,21 @@
+company,lead_score,propensity_pct,stage,top_signals,last_news_date,next_best_action
+Kite Mobility,99.0,13.2,Qualified,Headcount spike; Executive change,2025-08-11,Email CFO
+Redwood Retail,94.2,9.1,New,M&A rumor; Revenue growth; New funding round,2025-06-29,Email CFO
+Pulse Payments,91.0,13.1,New,Headcount spike; Patent filing; Revenue growth,2025-06-14,Add to watchlist
+BlueWave Energy,87.2,33.0,In Discussion,Executive change; Partnership announced,2025-07-20,Email CFO
+Evergreen Foods,86.2,43.7,Contacted,M&A rumor; Revenue growth; New funding round,2025-06-26,Research briefing
+Magma Mining,79.5,47.8,Contacted,M&A rumor; Partnership announced,2025-06-23,Warm intro via investor
+Acme Robotics,79.5,22.0,Contacted,Revenue growth,2025-07-03,Research briefing
+Titan Marine,73.0,25.4,Qualified,Headcount spike; Revenue growth; Patent filing,2025-06-30,Email CFO
+Delta Logistics,71.5,2.3,Qualified,Revenue growth,2025-07-21,Research briefing
+GreenLeaf Agri,70.3,36.0,New,Headcount spike; Revenue growth,2025-07-29,Research briefing
+Lumen Cloud,67.5,54.7,In Discussion,Patent filing; New funding round; Revenue growth,2025-07-21,Warm intro via investor
+Quanta Materials,65.4,59.0,New,Revenue growth,2025-07-01,Email CFO
+Cortex Health,64.0,23.4,In Discussion,Headcount spike; Patent filing; M&A rumor,2025-07-29,CEO outreach
+Flux Analytics,61.4,22.3,Qualified,Revenue growth,2025-06-30,Research briefing
+Ionix Biotech,59.4,32.8,Contacted,Partnership announced; M&A rumor,2025-07-15,Email CFO
+Nimbus AI,59.1,14.2,Qualified,Regulatory approval,2025-08-03,Email CFO
+Helios Solar,58.8,27.0,Contacted,Partnership announced,2025-07-07,Research briefing
+Skyline Drones,57.1,33.5,New,Partnership announced; Revenue growth; Headcount spike,2025-07-18,Research briefing
+Orchid Pharma,55.6,68.5,New,Regulatory approval; Patent filing; Partnership announced,2025-08-05,Warm intro via investor
+Jade Fintech,54.1,39.0,Contacted,Regulatory approval,2025-07-17,CEO outreach
