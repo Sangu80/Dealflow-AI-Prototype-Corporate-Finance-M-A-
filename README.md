@@ -10,7 +10,7 @@ This prototype includes a **Streamlit app**, a **synthetic lead dataset**, and *
 
 ## 🏗 Architecture
 
-![Architecture](images/dealflow_architecture.png)
+![Architecture](dealflow_architecture.png)
 
 **Workflow:**  
 1. **Ingestion** – APIs (Crunchbase/LinkedIn/ASX), RSS feeds, CSV drops (Python/Airflow)  
@@ -23,7 +23,7 @@ This prototype includes a **Streamlit app**, a **synthetic lead dataset**, and *
 
 ## 📊 Dashboard Mock
 
-![Dashboard](images/mock_dashboard.png)
+![Dashboard](mock_dashboard.png)
 
 ---
 
